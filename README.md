@@ -1,6 +1,7 @@
 # ¡Hola! Soy Ernesto Leal 👋
 
-![banner]([https://drive.google.com/file/d/1hNA6aXMC-O2HLnp_Dz-BqCDg1TEmjPHg/view?usp=sharing)])
+![Proyecto nuevo](https://github.com/NetoHalifar/NetoHalifar/assets/171713600/2bffb65c-903d-435c-ad93-6220bc7ebc3f)
+
 
 ## 🌟 Sobre Mí
 
