@@ -6,9 +6,22 @@
 ## 🌟 Sobre Mí
 
 ```yaml
-nombre: Ernesto Leal
-profesión: M.I. Ernesto Leal 
-intereses: 
+Nombre: Ernesto Leal
+Profesión: M.I. Ernesto Leal 
+Intereses: 
   - Programación
   - Tecnología
   - Innovación
+
+🌱 Actualmente, estoy aprendiendo [tecnología/lenguajes de programación/habilidad].
+🔭 Trabajando en [proyecto actual].
+👯 Busco colaborar en el desarrrolo de proyectos elctronicos.
+📫 Cómo contactarme: ernesto.leal@uelectronics.com
+😄 Pronombres: [tus pronombres].
+⚡ Dato curioso: me gusta bailar y las experiencias inmersivas.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?NetoHalifar=tu-usuario&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?NetoHalifar=tu-usuario&layout=compact&theme=radical" alt="Top Langs" />
+</p>
