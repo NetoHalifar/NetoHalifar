@@ -1,16 +1,13 @@
-## Hi there 👋
+# ¡Hola! Soy [Ernesto Leal] 👋
 
-<!--
-**NetoHalifar/NetoHalifar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner](https://via.placeholder.com/800x200.png?text=Bienvenido+a+mi+perfil+de+GitHub)
 
-Here are some ideas to get you started:
+## 🌟 Sobre Mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+nombre: Ernesto Leal
+profesión: M.I. Ernesto Leal 
+intereses: 
+  - Programación
+  - Tecnología
+  - Innovación
