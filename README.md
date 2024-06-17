@@ -14,14 +14,10 @@ Intereses:
   - Innovación
 
 🌱 Actualmente, estoy aprendiendo [tecnología/lenguajes de programación/habilidad].
-🔭 Trabajando en [proyecto actual].
+🔭 Trabajando en el diseño y desarrollo de páginas web intuitivas y visualmente atractivas para promocionar productos electrónicos.
 👯 Busco colaborar en el desarrrolo de proyectos elctronicos.
 📫 Cómo contactarme: ernesto.leal@uelectronics.com
-😄 Pronombres: [tus pronombres].
 ⚡ Dato curioso: me gusta bailar y las experiencias inmersivas.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?NetoHalifar=tu-usuario&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?NetoHalifar=tu-usuario&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+🎉 Agradecimientos
+Gracias por visitar mi perfil de GitHub. ¡Espero que encuentres algo útil y disfrutes tu estadía aquí!
